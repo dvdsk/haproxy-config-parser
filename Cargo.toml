@@ -20,7 +20,7 @@ exclude = [
 
 [dependencies]
 ariadne = "0.4.0"
-itertools = "0.13.0"
+itertools = "0.14.0"
 peg = "0.8.2"
 thiserror = "1.0.56"
 
